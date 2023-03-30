@@ -1,0 +1,18 @@
+--- color ---
+Main pre darker A:
+#1D8CA8
+
+Main pre light B:
+#5EDFFF
+
+Main pre C:
+#42D0F5
+rgb(66, 208, 245)
+
+Main sub darker D:
+#A8570C
+
+Main sub E:
+#F59842
+rgb(245, 152, 66)
+--- end ---
